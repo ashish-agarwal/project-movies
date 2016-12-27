@@ -8,7 +8,7 @@ showing the trailer of the clicked movie.
 
 ## Prerequisites
 
-* Python - Download and Install [Python]() - As we are using python to generate the html, we will be needing python.
+* Python - Download and Install [Python](https://www.python.org/downloads/) - As we are using python to generate the html, we will be needing python.
 
 ## Usage
 
