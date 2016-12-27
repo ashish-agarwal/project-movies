@@ -14,7 +14,7 @@ showing the trailer of the clicked movie.
 
 Clone the repository
 ```
-git clone 
+git clone https://github.com/ashish-agarwal/project-movies.git 
 ```
 
 Run `python`
